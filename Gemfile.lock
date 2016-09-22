@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     country_select (2.5.2)
-      countries (~> 1.2.0)
+      countries (~> 1.2.5)
       sort_alphabetical (~> 1.0)
 
 GEM
@@ -288,6 +288,3 @@ DEPENDENCIES
   rspec (~> 3)
   rubysl (~> 2.0)
   wwtd
-
-BUNDLED WITH
-   1.11.2
